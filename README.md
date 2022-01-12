@@ -9,25 +9,25 @@
   
   1.- Clonar el repositorio, para la instalacion.
 
-  git clone https://github.com/Snake-Programerlod/SAandT-powerbutton.git
+  `git clone https://github.com/Snake-Programerlod/SAandT-powerbutton.git`
 
   2.- Dar permisos a los archivos de instalacion y desinstalacion.
 
-  chmod 744 ./SAandT-powerbutton/script/install
+  `chmod 744 ./SAandT-powerbutton/script/install`
   
-  chmod 744 ./SAandT-powerbutton/script/uninstall
+  `chmod 744 ./SAandT-powerbutton/script/uninstall`
 
   3.- Ejecutar el comando de instalacion
 
-  ./SAandT-powerbutton/script/install
+  `./SAandT-powerbutton/script/install`
 
   4.- Reiniciar Raspberry.
 
-  sudo reebot
+  `sudo reebot`
 
   5.- Para desinstalar el codio del boton de encendido y apagado, ejecutar el siguiente comando
 
-  ./SAandT-powerbutton/script/unistall
+  `./SAandT-powerbutton/script/unistall`
 
 # Diagrama de conexion.
 ![Connection Diagram](https://wiki.batocera.org/_media/batocera_pin56.png)
