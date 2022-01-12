@@ -30,6 +30,6 @@
   ./SAandT-powerbutton/script/unistall
 
 # Diagrama de conexion.
-![Alt text](/Snake-Programerlod/SAandT-powerbutton/blob/main/diagrams/pinout.png?raw=true "")
+![Connection Diagram](https://raw.githubusercontent.com/Howchoo/pi-power-button/master/diagrams/pinout.png)
 
 
