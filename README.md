@@ -14,6 +14,7 @@
   2.- Dar permisos a los archivos de instalacion y desinstalacion.
 
   chmod 744 ./SAandT-powerbutton/script/install
+  
   chmod 744 ./SAandT-powerbutton/script/uninstall
 
   3.- Ejecutar el comando de instalacion
@@ -30,4 +31,6 @@
 
 # Diagrama de conexion.
 
- 
+https://github.com/Snake-Programerlod/SAandT-powerbutton/blob/main/diagrams/pinout.png
+
+
