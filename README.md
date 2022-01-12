@@ -30,6 +30,6 @@
   ./SAandT-powerbutton/script/unistall
 
 # Diagrama de conexion.
-![Connection Diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwiki.batocera.org%2Fadd_powerdevices_rpi_only&psig=AOvVaw2t3L_tX_bxKi7Nz8bKZk3w&ust=1642097471904000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCO_fjnrPUCFQAAAAAdAAAAABAU)
+![Connection Diagram](https://wiki.batocera.org/_media/batocera_pin56.png)
 
 
