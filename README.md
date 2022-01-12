@@ -29,7 +29,10 @@
 
   `./SAandT-powerbutton/script/unistall`
 
-# Diagrama de conexion.
+# Materiales y diagrama de conexion.
+
+ Para realizar este tutorial es necesario contar con un boton normalmente abierto, osea que al momento de presionarlo cierre el circuito entre el pin 5 y 6 de nuestra raspberry como se muestra en el siguiente diagrama.
+
 ![Connection Diagram](https://wiki.batocera.org/_media/batocera_pin56.png)
 
 
